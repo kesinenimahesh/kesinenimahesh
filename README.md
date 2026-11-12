@@ -18,8 +18,7 @@ Building digital experiences and intelligent business solutions.
   
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kesinenimahesh&style=flat-square&color=0e9f9a&label=PROFILE+VIEWS)
-
+ 
 </div>
 
 ---
@@ -121,7 +120,7 @@ I'm available to collaborate on exciting projects and help businesses build thei
 
 **Let's discuss your ideas and turn them into reality.**
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kesinenimaheshnaidu@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT_ME-0E9F9A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
